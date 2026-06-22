@@ -48,7 +48,10 @@ skills: [
   { name: "GitHub", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
   { name: "npm", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" },
   { name: "Linux", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" },
-{ name: "Microsoft Excel", icon: "https://cdn.simpleicons.org/microsoftexcel/217346" },
+{ 
+  name: "Microsoft Excel", 
+  icon: "https://www.microsoft.com/favicon.ico"
+},
   { name: "Power BI", icon: "https://img.icons8.com/color/48/power-bi.png" },
 { name: "SQL", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
 { name: "Pandas", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" },
