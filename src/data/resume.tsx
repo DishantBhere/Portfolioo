@@ -64,7 +64,7 @@ contact: {
   social: {
     Resume: {
       name: "Resume",
-      url: "https://drive.google.com/file/d/1x0X10bSQrGqjP-g1ZSExDyBxQJ33ZVdM/view?usp=drive_link",
+      url: "https://drive.google.com/file/d/11UnzyWZvgWM0N82tHmfJNsfS8E0AEWum/view?usp=sharing",
       icon: Icons.resume,
       navbar: true,
     },
