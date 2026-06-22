@@ -32,7 +32,7 @@ export const DATA = {
   description:
     "Software engineer Obsessed with Building,Allergic to mediocrity. Playing the game by my own rules.",
   summary:
-  "I build fast and learn faster. With a [Bachelor's in Information Technology](#education) and [6+ hackathons](#hackathons) under my belt, I've learned that the best way to get good at something is to ship it. Currently open to opportunities and side projects worth pursuing.",
+  "I build fast and learn faster. With a [Bachelor's in Information Technology](#education) and [5+ hackathons](#hackathons) under my belt, I've learned that the best way to get good at something is to ship it. Currently open to opportunities and side projects worth pursuing.",
   avatarUrl: "/me.jpeg",
 skills: [
   { name: "HTML5", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
@@ -48,6 +48,13 @@ skills: [
   { name: "GitHub", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
   { name: "npm", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" },
   { name: "Linux", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" },
+{ name: "Microsoft Excel", icon: "https://cdn.simpleicons.org/microsoftexcel/217346" },
+  { name: "Power BI", icon: "https://img.icons8.com/color/48/power-bi.png" },
+{ name: "SQL", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
+{ name: "Pandas", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" },
+{ name: "NumPy", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" },
+{ name: "Matplotlib", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" },
+{ name: "Tableau", icon: "https://img.icons8.com/color/48/tableau-software.png" },
   { name: "Figma", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" },
 ],
 
@@ -95,12 +102,12 @@ contact: {
       href: "https://mitremedia.com/",
       badges: [],
       location: "Toronto, ON",
-      title: "Software Engineer Intern",
+      title: "Data Analyst Intern",
       logoUrl: "/alpha.png",
       start: "Jul 2025",
       end: "Dec 2025",
       description:
-        "Worked as a Software Engineer, Fixing Bugs, upgrading outdated systems, & supporting staff in using the platform efficiently.",
+        "Worked with Excel and Power BI to track key business metrics, create performance dashboards, and present data insights that aided management in informed decision making.",
     },
      {
       company: "Elevance Skills",
@@ -351,22 +358,7 @@ contact: {
         },
       ],
     },
-    {
-      title: "Nerds AI Clash – Valentine Edition",
-      dates: "February 20th, 2026",
-      location: "Vishveshwarya Group of Institutions (VGI),Uttar Pradesh",
-      description:
-        "Participated in an AI based hackathon focused on problem-solving & core AI concepts. Competed in a timed, real-time format testing technical knowledge and quick thinking.",
-      image:
-        "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6979c9f09be66_nerds_room_logo.jpg",
-      links: [
-        {
-          title: "Certificate",
-          icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://unstop.com/certificate-preview/e3ad06eb-3767-4d00-906e-3c34fc7ae6a0",
-        },
-      ],
-    },
+    
     
     
 
