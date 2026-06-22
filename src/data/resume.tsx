@@ -25,8 +25,8 @@ import {
 
 export const DATA = {
   name: "Dishant Bhere",
-  initials: "DV",
-  url: "https://dillion.io",
+  initials: "DB",
+  url: "https://dishantbhere.vercel.app/",
   location: "Navi Mumbai, India",
   locationLink: "https://www.google.com/maps/place/Navi_Mumbai",
   description:
