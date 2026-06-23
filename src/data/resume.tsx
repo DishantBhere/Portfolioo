@@ -74,7 +74,7 @@ contact: {
   social: {
     Resume: {
       name: "Resume",
-      url: "https://drive.google.com/file/d/11UnzyWZvgWM0N82tHmfJNsfS8E0AEWum/view?usp=sharing",
+      url: "https://drive.google.com/file/d/1o6rOHjR18EDj6PU1mrYSXj2TV-llkE2j/view?usp=sharing",
       icon: Icons.resume,
       navbar: true,
     },
