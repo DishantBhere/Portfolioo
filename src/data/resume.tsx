@@ -249,6 +249,42 @@ contact: {
       video:
         "https://raw.githubusercontent.com/DishantBhere/AI-Data-Analyst/main/Video%20Project%203.mp4",
     },
+{
+      title: "TwitterX Clone",
+      href: "https://github.com/DishantBhere/TwitterX",
+      dates: "January 2026 - July 2026",
+      active: true,
+      description:
+        "Full-stack Twitter/X clone with Next.js 14 & TypeScript. Auth, infinite-scroll feed, real-time-style interactions, multi-language support, emoji picker, PDF export. Backend on Prisma + Supabase (PostgreSQL)",
+      technologies: [
+  "Next.js",
+"TypeScript",
+"Prisma",
+"Supabase",
+"PostgreSQL",
+"Material UI",
+"React Query",
+"Formik",
+"Framer Motion",
+"Full Stack",
+],
+      links: [
+        {
+          type: "Website",
+          href: "https://twitter-x-rho.vercel.app/explore",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/DishantBhere/TwitterX",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "https://private-user-images.githubusercontent.com/169689306/620264250-8c7f2803-ce26-44bc-b536-12590e0c1ba5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyMTQ5NDUsIm5iZiI6MTc4NDIxNDY0NSwicGF0aCI6Ii8xNjk2ODkzMDYvNjIwMjY0MjUwLThjN2YyODAzLWNlMjYtNDRiYy1iNTM2LTEyNTkwZTBjMWJhNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxNlQxNTEwNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYTU2Y2E0YjVmZjM3YWJkYmU2ZmY1ZGY2YmM3YjVhODVkYTg3MmZkMGYzNjE0MzFiYjEwZTA1MzA3N2Q5ZTA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.Jsn9UH__gtqClL7OQOgkP_3bdOhzz9aODZ0EhRp4nvg",
+      video:
+        "",
+    },
+
   ],
   hackathons: [
     {
@@ -256,7 +292,7 @@ contact: {
       dates: "June 9th - 10th, 2024",
       location: "Betegaon, Palghar",
       description:
-        "Secured 1st place at BuildIT 2024 (College Hackathon) by developing an AI Data Analyst Agent using Streamlit & Gemini API.Built a system that enables users to upload CSV/Excel datasets & obtain AI-generated insights through natural language queries",
+        "Secured 1st place at BuildIT 2024 (College Hackathon) by developing an AI Data Analyst Agent using Streamlit & Gemini API.Built a system that enables users to upload CSV/Excel datasets & obtain AI-Generated insights through natural language queries",
       icon: "public",
       image:
         "/theemLogo.png",
