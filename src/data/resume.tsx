@@ -402,7 +402,7 @@ contact: {
       dates: "May 04th - 30th, 2026",
       location: "Remote, Global",
       description:
-        "Built GraphRAG powered AI solution improving retrieval accuracy, Multi-Hop reasoning, LLM response quality. Explored graph-based knowledge retrieval, inference optimization, connected data understanding.",
+        "Built GraphRAG powered AI solution improving retrieval accuracy,Multi-Hop reasoning, LLM response quality. Explored graph-based knowledge retrieval, inference optimization, connected data understanding.",
       image:
         "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-69e94122634cc_screenshot_2026-04-23_031342.png",
       win: "Best Data Hack",
