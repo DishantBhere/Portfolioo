@@ -32,7 +32,7 @@ export const DATA = {
   description:
     "Software engineer Obsessed with Building,Allergic to mediocrity. Playing the game by my own rules.",
   summary:
-  "I build fast and learn faster. With a [Bachelor's in Information Technology](#education) and [5+ hackathons](#hackathons) under my belt, I've learned that the best way to get good at something is to ship it. Currently open to opportunities and side projects worth pursuing.",
+  "I build fast and learn faster. With a [Bachelor's in Information Technology](#education) and [6+ hackathons](#hackathons) under my belt, I've learned that the best way to get good at something is to ship it. Currently open to opportunities and side projects worth pursuing.",
   avatarUrl: "/me.jpeg",
 skills: [
   { name: "HTML5", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
@@ -288,11 +288,11 @@ contact: {
   ],
   hackathons: [
     {
-      title: "BuildIT ~ College Hackathon ",
+      title: "BuildIT ~ Mini Hackathon ",
       dates: "June 9th - 10th, 2024",
       location: "Betegaon, Palghar",
       description:
-        "Secured 1st place at BuildIT 2024 (College Hackathon) by developing an AI Data Analyst Agent using Streamlit & Gemini API.Built a system that enables users to upload CSV/Excel datasets & obtain AI-Generated insights through natural language queries",
+        "Won 1st place in Department Level (CS & IT) mini hackathon by building AI Data Analyst Agent using Streamlit and Gemini API. Enabled CSV/Excel Dataset Analysis through natural language queries with AI-generated insights.",
       icon: "public",
       image:
         "/theemLogo.png",
@@ -324,7 +324,7 @@ contact: {
     {
       title: "IEEE TECHITHON ~ HACKDECK2.0",
       dates: "January 28th - 29th, 2026",
-      location: "Malad, Mumbai",
+      location: "Malad West, Mumbai",
       description:
         "A smart web app that predicts urban water demand using interactive scenario simulation. Adjust factors like weather, population, and industry to see real-time impact, alerts, and insights.",
       image:
@@ -369,7 +369,7 @@ contact: {
     {
       title: "ARIVOLIO 2K'26",
       dates: "February 11th - 12th, 2026",
-      location: " Online, Unstop",
+      location: " Remote, Global",
       description:
         "Participated in a hackathon style coding challenge focused on solving real-time programming problems under time constraints.",
       image:
@@ -385,7 +385,7 @@ contact: {
       {
       title: "Webathon 2026",
       dates: "February 04, 2026",
-      location: "Boisar, Palghar",
+      location: "Betegaon, Palghar",
       description: "Explains complex topics in simple terms using an offline-friendly AI system for fast, accessible learning. Built with: React, AI/NLP logic, Offline support (PWA/Local processing)",
       image:
         "https://img.freepik.com/premium-vector/blue-stork-logo-with-gradient-style_501861-174.jpg?w=500",
@@ -393,7 +393,30 @@ contact: {
          {
           title: "Project",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://unstop.com/certificate-preview/e3ad06eb-3767-4d00-906e-3c34fc7ae6a0",
+          href: "https://github.com/DishantBhere/",
+        },
+      ],
+    },
+    {
+      title: "GraphRAG Inference Hackathon by TigerGraph",
+      dates: "May 04th - 30th, 2026",
+      location: "Remote, Global",
+      description:
+        "Built GraphRAG powered AI solution improving retrieval accuracy, Multi-Hop reasoning, LLM response quality. Explored graph-based knowledge retrieval, inference optimization, connected data understanding.",
+      image:
+        "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-69e94122634cc_screenshot_2026-04-23_031342.png",
+      win: "Best Data Hack",
+      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2018/white.svg",
+      links: [
+        {
+          title: "Certificate",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://unstop.com/certificate-preview/ff0380ae-b6eb-4718-963d-660df32fe75d",
+        },
+        {
+          title: "Project",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://github.com/DishantBhere/",
         },
       ],
     },
