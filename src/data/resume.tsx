@@ -311,8 +311,7 @@ contact: {
       description:
         "Led team to build offline P2P messaging app. Designed UI with radar detection, connection requests, encrypted chat, and user profiles. Managed workflow, features, and presentation.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+        "/SIH-logo.png",
        links: [
         {
           title: "Certificate",
@@ -398,11 +397,11 @@ contact: {
       ],
     },
     {
-      title: "GraphRAG Inference Hackathon by TigerGraph",
+      title: "GraphRAG Inference Hackathon",
       dates: "May 04th - 30th, 2026",
       location: "Remote, Global",
       description:
-        "Built GraphRAG powered AI solution improving retrieval accuracy,Multi-Hop reasoning, LLM response quality. Explored graph-based knowledge retrieval, inference optimization, connected data understanding.",
+        "Built and benchmarked 3 RAG architectures (LLM-only, Vector RAG, GraphRAG) on a 2M-token news dataset using TigerGraph + Gemini. Measured token efficiency, latency, and accuracy (BERTScore, LLM-as-judge) with a custom Next.js comparison dashboard.",
       image:
         "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-69e94122634cc_screenshot_2026-04-23_031342.png",
       win: "Best Data Hack",
@@ -412,6 +411,48 @@ contact: {
           title: "Certificate",
           icon: <Icons.globe className="h-4 w-4" />,
           href: "https://unstop.com/certificate-preview/ff0380ae-b6eb-4718-963d-660df32fe75d",
+        },
+        {
+          title: "Project",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://github.com/DishantBhere/Synapse-Lab",
+        },
+      ],
+    },
+    {
+      title: "Smart School FinTech Innovation Challenge",
+      dates: "July 24th - 28th, 2026",
+      location: " Remote, Global",
+      description:
+        "Designed a production-ready solution tackling fragmented school systems and outdated fee workflows. Built full-stack prototype with focus on automation, efficiency, and real-world impact",
+      image:
+        "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-0wZBOIOsic831216933qari2XWIWE.png",
+      links: [
+        {
+          title: "Certificate",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://unstop.com/certificate-preview/4781d984-67de-4dde-a352-dd704bd573e6",
+        },
+        {
+          title: "Project",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://github.com/DishantBhere/",
+        },
+      ],
+    },
+    {
+      title: "National Research & Innovation Challenge ~ Season 2",
+      dates: "June 30th - July 21th, 2026",
+      location: " Remote, Global",
+      description:
+        "Built scalable AI agent solution automating real-world workflow tasks end-to-end system covering logic, tech stack, and deployment workflow. Delivered modular, documented codebase focused on practicality and measurable efficiency gains.",
+      image:
+        "https://3svk-season2.carrd.co/assets/images/image02.jpg?v=d9b2595b",
+      links: [
+        {
+          title: "Certificate",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://unstop.com/certificate-preview/35bf4416-36da-4756-812c-8f461d01a561",
         },
         {
           title: "Project",
