@@ -280,10 +280,41 @@ contact: {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://private-user-images.githubusercontent.com/169689306/620264250-8c7f2803-ce26-44bc-b536-12590e0c1ba5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyMTQ5NDUsIm5iZiI6MTc4NDIxNDY0NSwicGF0aCI6Ii8xNjk2ODkzMDYvNjIwMjY0MjUwLThjN2YyODAzLWNlMjYtNDRiYy1iNTM2LTEyNTkwZTBjMWJhNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxNlQxNTEwNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYTU2Y2E0YjVmZjM3YWJkYmU2ZmY1ZGY2YmM3YjVhODVkYTg3MmZkMGYzNjE0MzFiYjEwZTA1MzA3N2Q5ZTA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.Jsn9UH__gtqClL7OQOgkP_3bdOhzz9aODZ0EhRp4nvg",
-      video:
-        "",
+      image: "",
+      video: 
+      "https://raw.githubusercontent.com/DishantBhere/TwitterX/main/Video%20Project%201.mp4",
     },
+
+    {
+  title: "SHIKSHAONE",
+  href: "https://github.com/DishantBhere/shiksha1",
+  dates: "July 24, 2026 - July 28th, 2026",
+  active: true,
+  description:
+    "Built a school financial intelligence and Fee-Management Platform connecting admins & parents ~ centralized fee tracking, payment history, and AI-driven financial insights. Frontend prototype for Smart School FinTech Innovation Challenge 2026.",
+  technologies: [
+    "Next.js",
+    "TypeScript",
+    "TailwindCSS",
+    "Shadcn UI",
+    "Framer Motion",
+    "React",
+  ],
+  links: [
+    {
+          type: "Website",
+          href: "https://v0-shikshaone1.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+    {
+      type: "Source",
+      href: "https://github.com/DishantBhere/shiksha1",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+  image: "",
+  video: "https://raw.githubusercontent.com/DishantBhere/shiksha1/main/Video%20Project.mp4",
+},
 
   ],
   hackathons: [
@@ -436,7 +467,7 @@ contact: {
         {
           title: "Project",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/DishantBhere/",
+          href: "https://v0-shikshaone1.vercel.app/",
         },
       ],
     },
@@ -461,7 +492,27 @@ contact: {
         },
       ],
     },
-    
+    {
+      title: "Omnikon National Hackathon",
+      dates: "August 26th - September 1st,2026",
+      location: " Remote, Global",
+      description:
+        "Designed a production-ready solution tackling fragmented school systems and outdated fee workflows. Built full-stack prototype with focus on automation, efficiency, and real-world impact",
+      image:
+        "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-ivGLBVkwy41099256551hY3nToK21.png",
+      links: [
+        {
+          title: "Certificate",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://unstop.com/certificate-preview/1925cec4-7a5c-4160-9e1a-3080df6fa916",
+        },
+        {
+          title: "Project",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://github.com/DishantBhere/",
+        },
+      ],
+    },
     
     
 
